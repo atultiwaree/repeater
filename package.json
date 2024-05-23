@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {
+    "chalk": "^5.3.0"
   }
 }
